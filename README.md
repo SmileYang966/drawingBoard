@@ -1,5 +1,5 @@
 # 1.实现效果图
-
+![drawingBoard](https://github.com/SmileYang966/drawingBoard/blob/master/drawingBoard.gif)
 
 # 2.画板主要功能：
 1.画线
